@@ -1,0 +1,223 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml:3:1-44:12
+INJECTED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml:3:1-44:12
+INJECTED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml:3:1-44:12
+INJECTED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml:3:1-44:12
+MERGED from [me.dm7.barcodescanner:zbar:1.9.13] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\f204d08d974a3a041343fe693e50e7c2\zbar-1.9.13\AndroidManifest.xml:2:1-13:12
+MERGED from [me.dm7.barcodescanner:core:1.9.13] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\8ddbaa4c249481197ad53c83b451bc55\core-1.9.13\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\786d8fd73b737fff608d45a3d89f5c9e\support-v4-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\0bb65fce44eaa1e17aa5f19c8cad1330\design-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\b5ee3a09fd4547077a5a764fab9f47a5\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\117a64f83162dca1aa387587765266d2\support-media-compat-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\007e4433cf16f5d902934a2165db007e\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\98232f9d40833dd102b9081a4e0ea231\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\d5865475040c0485b09532ffddd7b584\recyclerview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\5e0ffbca7a7a4838669e851c599dc24d\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\5f5bd36f51953a91613f47f76adc1297\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\24af3e7d06569c063772ae14e8f61d68\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\3acff3cda533b46a50844767a5e763c1\transition-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\e9cf1b98f325eb68a7f26de64d28655a\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\2f10308bbca76cec2edcb8b2d1e14ba2\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\25f9e622e55f21e30b86999909b2cf11\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\7fbb095de622fb6b9f5db5141a22cfd8\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\d441195be3e1144bd071a1f6f5098b50\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\de1a468fd53a54ecac8534cdebd0b30f\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\ba4386ee6d982b298eb8c6d62772aef7\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\071128b67086cf91e26cd2e0bb5c2c13\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\cb6429a3fb768b1c5d3a265fe1f8860a\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\137aa7e9510cb96bd95724929ae52c84\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\3154286de8dd20ee1734856bc1477af6\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\6baa8e6bdf812a03e935624f4ad36ad6\cardview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\2409afd43cdbd47b5b07e85015aa47ab\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\b79aacb08076b1ab5439af1140a06854\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\de1365942ab8479f710d686f846621b6\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\719765b9fc8a117007d943ddc2f0d25c\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\f44bcd1191825357f101d55c05785114\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\02f2ff3114e32bac9d07450f31264296\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\de922449cbcbb4081ee9c5e814aa5cf2\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\351f826181d96370eb08e0e52439bdd6\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\07e26a87d0db54b572befe3670e13fd3\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml:3:1-44:12
+INJECTED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml:3:1-44:12
+INJECTED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml:3:1-44:12
+	package
+		ADDED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml:3:70-113
+		INJECTED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml:3:1-44:12
+		INJECTED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml:3:1-44:12
+		INJECTED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml:3:11-69
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml:4:3-63
+	android:name
+		ADDED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml:4:20-60
+application
+ADDED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml:6:3-43:19
+MERGED from [me.dm7.barcodescanner:zbar:1.9.13] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\f204d08d974a3a041343fe693e50e7c2\zbar-1.9.13\AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:zbar:1.9.13] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\f204d08d974a3a041343fe693e50e7c2\zbar-1.9.13\AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9.13] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\8ddbaa4c249481197ad53c83b451bc55\core-1.9.13\AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9.13] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\8ddbaa4c249481197ad53c83b451bc55\core-1.9.13\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\0bb65fce44eaa1e17aa5f19c8cad1330\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\0bb65fce44eaa1e17aa5f19c8cad1330\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\cb6429a3fb768b1c5d3a265fe1f8860a\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\cb6429a3fb768b1c5d3a265fe1f8860a\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\137aa7e9510cb96bd95724929ae52c84\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\137aa7e9510cb96bd95724929ae52c84\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\cb6429a3fb768b1c5d3a265fe1f8860a\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml:7:9-41
+	android:icon
+		ADDED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml:8:9-45
+	android:allowBackup
+		ADDED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml:6:16-42
+activity#me.dm7.barcodescanner.zbar.sample.MainActivity
+ADDED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml:9:9-16:20
+	android:label
+		ADDED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml:11:19-51
+	android:theme
+		ADDED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml:10:19-50
+	android:name
+		ADDED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml:9:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml:12:13-15:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml:14:17-77
+	android:name
+		ADDED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml:14:27-74
+activity#me.dm7.barcodescanner.zbar.sample.FullScannerActivity
+ADDED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml:18:9-24:20
+	android:label
+		ADDED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml:21:19-59
+	android:uiOptions
+		ADDED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml:20:19-63
+	android:theme
+		ADDED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml:19:19-57
+	android:name
+		ADDED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml:18:19-54
+meta-data#android.support.UI_OPTIONS
+ADDED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml:22:13-23:67
+	android:value
+		ADDED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml:23:24-64
+	android:name
+		ADDED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml:22:24-65
+activity#me.dm7.barcodescanner.zbar.sample.FullScannerFragmentActivity
+ADDED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml:26:9-32:20
+	android:label
+		ADDED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml:29:19-68
+	android:uiOptions
+		ADDED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml:28:19-63
+	android:theme
+		ADDED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml:27:19-57
+	android:name
+		ADDED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml:26:19-62
+activity#me.dm7.barcodescanner.zbar.sample.SimpleScannerActivity
+ADDED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml:34:9-37:20
+	android:label
+		ADDED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml:36:17-64
+	android:theme
+		ADDED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml:35:17-55
+	android:name
+		ADDED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml:34:19-56
+activity#me.dm7.barcodescanner.zbar.sample.SimpleScannerFragmentActivity
+ADDED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml:39:9-42:20
+	android:label
+		ADDED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml:41:17-73
+	android:theme
+		ADDED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml:40:17-55
+	android:name
+		ADDED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml:39:19-64
+uses-sdk
+INJECTED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml
+MERGED from [me.dm7.barcodescanner:zbar:1.9.13] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\f204d08d974a3a041343fe693e50e7c2\zbar-1.9.13\AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:zbar:1.9.13] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\f204d08d974a3a041343fe693e50e7c2\zbar-1.9.13\AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:core:1.9.13] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\8ddbaa4c249481197ad53c83b451bc55\core-1.9.13\AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:core:1.9.13] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\8ddbaa4c249481197ad53c83b451bc55\core-1.9.13\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\786d8fd73b737fff608d45a3d89f5c9e\support-v4-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\786d8fd73b737fff608d45a3d89f5c9e\support-v4-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\0bb65fce44eaa1e17aa5f19c8cad1330\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\0bb65fce44eaa1e17aa5f19c8cad1330\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\b5ee3a09fd4547077a5a764fab9f47a5\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\b5ee3a09fd4547077a5a764fab9f47a5\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\117a64f83162dca1aa387587765266d2\support-media-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\117a64f83162dca1aa387587765266d2\support-media-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\007e4433cf16f5d902934a2165db007e\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\007e4433cf16f5d902934a2165db007e\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\98232f9d40833dd102b9081a4e0ea231\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\98232f9d40833dd102b9081a4e0ea231\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\d5865475040c0485b09532ffddd7b584\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\d5865475040c0485b09532ffddd7b584\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\5e0ffbca7a7a4838669e851c599dc24d\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\5e0ffbca7a7a4838669e851c599dc24d\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\5f5bd36f51953a91613f47f76adc1297\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\5f5bd36f51953a91613f47f76adc1297\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\24af3e7d06569c063772ae14e8f61d68\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\24af3e7d06569c063772ae14e8f61d68\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\3acff3cda533b46a50844767a5e763c1\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\3acff3cda533b46a50844767a5e763c1\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\e9cf1b98f325eb68a7f26de64d28655a\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\e9cf1b98f325eb68a7f26de64d28655a\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\2f10308bbca76cec2edcb8b2d1e14ba2\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\2f10308bbca76cec2edcb8b2d1e14ba2\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\25f9e622e55f21e30b86999909b2cf11\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\25f9e622e55f21e30b86999909b2cf11\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\7fbb095de622fb6b9f5db5141a22cfd8\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\7fbb095de622fb6b9f5db5141a22cfd8\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\d441195be3e1144bd071a1f6f5098b50\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\d441195be3e1144bd071a1f6f5098b50\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\de1a468fd53a54ecac8534cdebd0b30f\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\de1a468fd53a54ecac8534cdebd0b30f\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\ba4386ee6d982b298eb8c6d62772aef7\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\ba4386ee6d982b298eb8c6d62772aef7\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\071128b67086cf91e26cd2e0bb5c2c13\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\071128b67086cf91e26cd2e0bb5c2c13\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\cb6429a3fb768b1c5d3a265fe1f8860a\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\cb6429a3fb768b1c5d3a265fe1f8860a\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\137aa7e9510cb96bd95724929ae52c84\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\137aa7e9510cb96bd95724929ae52c84\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\3154286de8dd20ee1734856bc1477af6\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\3154286de8dd20ee1734856bc1477af6\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\6baa8e6bdf812a03e935624f4ad36ad6\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\6baa8e6bdf812a03e935624f4ad36ad6\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\2409afd43cdbd47b5b07e85015aa47ab\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\2409afd43cdbd47b5b07e85015aa47ab\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\b79aacb08076b1ab5439af1140a06854\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\b79aacb08076b1ab5439af1140a06854\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\de1365942ab8479f710d686f846621b6\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\de1365942ab8479f710d686f846621b6\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\719765b9fc8a117007d943ddc2f0d25c\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\719765b9fc8a117007d943ddc2f0d25c\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\f44bcd1191825357f101d55c05785114\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\f44bcd1191825357f101d55c05785114\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\02f2ff3114e32bac9d07450f31264296\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\02f2ff3114e32bac9d07450f31264296\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\de922449cbcbb4081ee9c5e814aa5cf2\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\de922449cbcbb4081ee9c5e814aa5cf2\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\351f826181d96370eb08e0e52439bdd6\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\351f826181d96370eb08e0e52439bdd6\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\07e26a87d0db54b572befe3670e13fd3\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ppawande\.gradle\caches\transforms-2\files-2.1\07e26a87d0db54b572befe3670e13fd3\runtime-1.1.1\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ppawande\Desktop\barcodescanner-master\zbar-sample\src\main\AndroidManifest.xml
